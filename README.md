@@ -1,8 +1,11 @@
 # test-project
 Решение тестового задания на позицию junior java developer компании "РосИнновация"
 
-Папка mysql_scripts содержит скрипты для создания базы данных mySQL:
-  build_tables.sql - создание таблиц;
-  fill_table.sql - заполнение таблиц.
-  
-Папка test_project содержит Java-проект.
+<ul>
+  <li>Папка <b>mysql_scripts</b> содержит скрипты для создания базы данных mySQL:</li>
+  <ul>
+    <li><b>build_tables.sql</b> - создание таблиц;</li>
+    <li><b>fill_table.sql</b> - заполнение таблиц.</li>
+  </ul>
+  <li>Папка <b>test_project</b> содержит Java-проект.</li>
+</ul>
